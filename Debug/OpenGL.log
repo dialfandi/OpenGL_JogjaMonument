@@ -1,0 +1,7 @@
+﻿  TuguYogya.cpp
+e:\file pindah c\dhiedhi\teknik komputer\opengl_vs\opengl\opengl\tuguyogya.cpp(494): warning C4101: 'height': unreferenced local variable
+e:\file pindah c\dhiedhi\teknik komputer\opengl_vs\opengl\opengl\tuguyogya.cpp(494): warning C4101: 'width': unreferenced local variable
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  OpenGL.vcxproj -> E:\File Pindah C\Dhiedhi\Teknik Komputer\OpenGL_VS\OpenGL\Debug\OpenGL.exe
+  OpenGL.vcxproj -> E:\File Pindah C\Dhiedhi\Teknik Komputer\OpenGL_VS\OpenGL\Debug\OpenGL.pdb (Partial PDB)
